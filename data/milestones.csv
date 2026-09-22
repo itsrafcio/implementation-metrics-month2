@@ -1,0 +1,61 @@
+id,project_id,type,planned_date,actual_date,status
+1,1,Kickoff,2025-12-19,2025-12-21,Done
+2,1,Discovery,2026-01-05,,In Progress
+3,1,Build,2026-01-20,,Planned
+4,2,Kickoff,2026-01-05,2026-01-07,Done
+5,2,Discovery,2026-01-12,,In Progress
+6,2,Integration,2026-01-26,,Planned
+7,3,Kickoff,2025-11-26,2025-11-26,Done
+8,3,UAT,2026-01-05,2026-01-06,Done
+9,3,Go-Live,2026-01-18,2026-01-18,Done
+10,4,Kickoff,2026-01-07,2026-01-09,Done
+11,4,Discovery,2026-01-14,,In Progress
+12,4,Build,2026-01-28,,Planned
+13,5,Kickoff,2026-01-02,2026-01-03,Done
+14,5,Discovery,2026-01-10,,In Progress
+15,5,Integration,2026-01-24,,Planned
+16,6,Kickoff,2026-01-22,,Planned
+17,6,Discovery,2026-01-29,,Planned
+18,6,Build,2026-02-10,,Planned
+19,7,Kickoff,2025-12-16,2025-12-18,Done
+20,7,Integration,2026-01-08,,In Progress
+21,7,UAT,2026-01-22,,Planned
+22,8,Kickoff,2026-01-03,2026-01-06,Done
+23,8,Discovery,2026-01-09,,In Progress
+24,8,UAT,2026-01-19,,In Progress
+25,9,Kickoff,2025-12-29,2025-12-29,Done
+26,9,Discovery,2026-01-10,,Blocked
+27,9,Build,2026-01-24,,Planned
+28,10,Kickoff,2026-01-09,2026-01-10,Done
+29,10,Discovery,2026-01-16,,In Progress
+30,10,Integration,2026-01-30,,Planned
+31,11,Kickoff,2025-12-01,2025-12-01,Done
+32,11,UAT,2026-01-10,2026-01-11,Done
+33,11,Go-Live,2026-01-22,2026-01-22,Done
+34,12,Kickoff,2026-01-06,2026-01-08,Done
+35,12,Discovery,2026-01-13,,In Progress
+36,12,Build,2026-01-27,,Planned
+37,13,Kickoff,2025-12-23,2025-12-26,Done
+38,13,Integration,2026-01-12,,In Progress
+39,13,UAT,2026-01-26,,Planned
+40,14,Kickoff,2026-01-04,2026-01-06,Done
+41,14,Discovery,2026-01-11,,Blocked
+42,14,Build,2026-01-25,,Planned
+43,15,Kickoff,2026-01-02,2026-01-04,Done
+44,15,Discovery,2026-01-10,,In Progress
+45,15,Go-Live,2026-02-24,,Planned
+46,16,Kickoff,2026-01-25,,Planned
+47,16,Discovery,2026-02-02,,Planned
+48,16,Integration,2026-02-18,,Planned
+49,17,Kickoff,2025-11-22,2025-11-22,Done
+50,17,UAT,2026-01-07,2026-01-09,Done
+51,17,Go-Live,2026-01-16,2026-01-16,Done
+52,18,Kickoff,2025-12-27,2025-12-29,Done
+53,18,Discovery,2026-01-08,,In Progress
+54,18,Integration,2026-01-21,,In Progress
+55,19,Kickoff,2026-01-08,2026-01-10,Done
+56,19,Build,2026-01-18,,In Progress
+57,19,UAT,2026-01-29,,Planned
+58,20,Kickoff,2026-01-11,2026-01-12,Done
+59,20,Discovery,2026-01-19,,In Progress
+60,20,Build,2026-02-02,,Planned
