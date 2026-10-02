@@ -1,0 +1,21 @@
+name,status,budget_amount,total_cost,budget_utilization_pct,overdue_milestones
+Core Rollout,In Progress,60000.0,53500.0,89.2,2
+Portal Launch,In Progress,45000.0,39200.0,87.1,2
+POS Upgrade,Done,90000.0,81200.0,90.2,0
+Loyalty Setup,In Progress,70000.0,56600.0,80.9,2
+Supplier Hub,In Progress,33000.0,32600.0,98.8,2
+Reporting Setup,Planned,25000.0,3200.0,12.8,3
+Workflow Upgrade,In Progress,80000.0,98000.0,122.5,2
+CRM Integration,In Progress,70000.0,48700.0,69.6,2
+Scheduling Deployment,Blocked,50000.0,33200.0,66.4,2
+Asset Dashboard,In Progress,41000.0,40100.0,97.8,2
+Intake Digitization,Done,65000.0,60400.0,92.9,0
+Lab Integration,In Progress,55000.0,42200.0,76.7,2
+Checkout Optimization,In Progress,48000.0,41400.0,86.2,2
+Returns Automation,Blocked,45000.0,52000.0,115.6,2
+Maintenance Portal,In Progress,55000.0,43300.0,78.7,2
+Onboarding Flow,Planned,38000.0,2800.0,7.4,3
+Cost Control Rollout,Done,72000.0,66800.0,92.8,0
+Site Reporting,In Progress,60000.0,49700.0,82.8,2
+Vendor Portal,In Progress,60000.0,72000.0,120.0,2
+Utilization Dashboard,In Progress,52000.0,40600.0,78.1,2
