@@ -1,26 +1,48 @@
-# Implementation Metrics — Month 2
+# Implementation Metrics – Month 2
 
-A practical implementation analytics project using Python, pandas, CSV data and API/Postman exercises.
+This project demonstrates practical API, Postman, Python and pandas skills in the context of software implementation and delivery.
 
-## Current Scope
+## Project Scope
 
-The project currently contains:
+The project uses implementation project data covering customers, projects, milestones and costs.
 
-- implementation project data in CSV format
-- pandas analysis notebooks
-- project, milestone and cost analysis
+The analysis focuses on practical delivery metrics such as:
+- project status distribution
+- total project cost
+- budget utilization
+- overdue unfinished milestones
 
-Additional API artifacts, metrics and reporting outputs will be added during Month 2.
+## Tools and Skills
 
-## Data
+- Python
+- pandas
+- CSV data processing
+- DataFrame filtering and aggregation
+- pandas merge and join cardinality
+- API fundamentals
+- Postman
+- HTTP methods: GET, POST, PUT, PATCH, DELETE
+- path and query parameters
+- JSON
+- environment variables
 
-The dataset contains four related tables:
+## Repository Structure
 
-- customers
-- projects
-- milestones
-- costs
+- `data/` – source CSV files
+- `notebooks/` – pandas analysis
+- `output/` – generated project metrics report
+- `api/` – exported Postman collection and environment
 
-## Work in Progress
+## Output
 
-This repository is being developed as part of a practical B2B SaaS implementation and delivery learning project.
+The final project report contains one row per project with:
+- project name
+- status
+- budget
+- total cost
+- budget utilization
+- overdue milestones
+
+## Notes
+
+The API exercises use DummyJSON as a public test API. Create, update and delete operations are simulated by the service.
