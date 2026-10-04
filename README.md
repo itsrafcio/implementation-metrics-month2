@@ -1,12 +1,12 @@
 # Implementation Metrics – Month 2
 
-This project demonstrates practical API, Postman, Python and pandas skills in the context of software implementation and delivery.
+This project combines API exercises in Postman with Python/pandas analysis of implementation project data.
 
 ## Project Scope
 
 The project uses implementation project data covering customers, projects, milestones and costs.
 
-The analysis focuses on practical delivery metrics such as:
+The project calculates several delivery metrics:
 - project status distribution
 - total project cost
 - budget utilization
